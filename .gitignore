@@ -1,0 +1,16 @@
+# Compiled object files
+*.o
+*.obj
+*.exe
+*.out
+*.log
+ 
+# CodeBlocks temporary files
+*.depend
+*.layout
+*.cbp.user
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
